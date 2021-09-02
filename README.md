@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repository](https://github.com/skyv26/3-column-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://skyv26.github.io/3-column-preview-card/)
 
 ## My process
 
